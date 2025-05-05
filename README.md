@@ -1,5 +1,5 @@
-# Responsible-Data-Analytics
-**Responsible Data Analytics: Urban Renewable Energy Forecasting in the Baltic Capitals**
+
+# **Responsible Data Analytics: Urban Renewable Energy Forecasting in the Baltic Capitals**
 
 Welcome to the project repository for our Responsible Data Analytics final project! This work presents a comprehensive, four-phase analytics pipeline designed to assess urban sustainability and renewable energy potential across three Baltic capital cities: Vilnius, Riga, and Tallinn.
 
