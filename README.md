@@ -3,31 +3,6 @@
 
 Welcome to the project repository for our Responsible Data Analytics final project! This work presents a comprehensive, four-phase analytics pipeline designed to assess urban sustainability and renewable energy potential across three Baltic capital cities: Vilnius, Riga, and Tallinn.
 
----
-
-## 📜 Table of Contents
-
-1. [Overview](#overview)
-2. [Key Features](#key-features)
-3. [Data Sources](#data-sources)
-4. [Methodology](#methodology)
-
-   * Descriptive & Diagnostic Analysis
-   * Predictive Modeling
-   * Prescriptive Strategies
-   * Responsible Analytics Considerations
-5. [Results](#results)
-6. [Getting Started](#getting-started)
-
-   * Prerequisites
-   * Installation
-   * Usage
-7. [Project Structure](#project-structure)
-8. [Contributing](#contributing)
-9. [Authors](#authors)
-10. [License](#license)
-
----
 
 ## 🏙️ Overview
 
