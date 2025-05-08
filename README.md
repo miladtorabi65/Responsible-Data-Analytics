@@ -105,26 +105,6 @@ Our ensemble consistently delivered high predictive accuracy, enabling reliable 
 
 ---
 
-## 🗂️ Project Structure
-
-```
-├── data
-│   ├── raw
-│   └── processed
-├── notebooks
-│   └── exploration.ipynb
-├── scripts
-│   ├── preprocess_data.py
-│   ├── train_model.py
-│   └── evaluate_model.py
-├── models
-├── reports
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions! Please open issues or submit pull requests for bug fixes, enhancements, or new features.
