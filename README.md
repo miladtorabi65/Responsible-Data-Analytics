@@ -163,7 +163,7 @@ We welcome contributions! Please open issues or submit pull requests for bug fix
 
 ## 👥 Authors
 
-* Milad [@milad-username](https://github.com/milad-username)
+* Milad [@milad](https://github.com/miladtorabi65)
 * Jennifer [@jennifer-username](https://github.com/jennifer-username)
 
 ---
