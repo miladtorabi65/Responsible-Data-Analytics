@@ -41,6 +41,12 @@ By combining advanced machine learning with ethical data practices, we pave the 
 
 ---
 
+# 📄Report
+The complete project report is available for detailed reference:
+[📘 View Full Report (PDF)](./Report_MLP.pdf)
+
+---
+
 ## ✨ Key Features
 
 * **Multi-City Analysis**: Comparative study of Vilnius, Riga, and Tallinn.
