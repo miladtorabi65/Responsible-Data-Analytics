@@ -99,42 +99,6 @@ Our ensemble consistently delivered high predictive accuracy, enabling reliable 
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-* Python 3.8+
-* `pip` package manager
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/<your-username>/baltic-renewable-forecast.git
-cd baltic-renewable-forecast
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\\Scripts\\activate`
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-### Usage
-
-```bash
-# Preprocess data\ npython scripts/preprocess_data.py --input data/raw --output data/processed
-
-# Train model
-python scripts/train_model.py --config config/train_config.yaml
-
-# Evaluate and generate reports
-python scripts/evaluate_model.py --model_path models/stacking_ensemble.pkl --output reports
-```
-
----
-
 ## 🗂️ Project Structure
 
 ```
