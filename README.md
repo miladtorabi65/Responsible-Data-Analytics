@@ -164,7 +164,7 @@ We welcome contributions! Please open issues or submit pull requests for bug fix
 ## 👥 Authors
 
 * Milad [@milad](https://github.com/miladtorabi65)
-* Jennifer [@jennifer-Email](j.hu-16@student.tudelft.nl)
+* Jennifer j.hu-16@student.tudelft.nl
 
 ---
 
