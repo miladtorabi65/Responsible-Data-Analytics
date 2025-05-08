@@ -17,7 +17,7 @@ By combining advanced machine learning with ethical data practices, we pave the 
 ---
 
 # 📄Report
-The complete project report is available for detailed reference:
+The complete project report is under inspection for publication, but you can access part of the report:
 [📘 View part of the Report (PDF)](./Final-Project-Report-Milad-Jennifer-Group8.pdf)
 
 ---
