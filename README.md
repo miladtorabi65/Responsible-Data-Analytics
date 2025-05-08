@@ -53,7 +53,7 @@ By combining advanced machine learning with ethical data practices, we pave the 
 
 ## 📊 Data Sources
 
-* **NASA POWER**: Daily meteorological variables (solar radiation, temperature, wind speed, humidity) for 2018–2022.
+* **[NASA POWER](https://power.larc.nasa.gov/data-access-viewer/)**: Daily meteorological variables (solar radiation, temperature, wind speed, humidity) for 2018–2022.
 * **City Metadata**: Geographic coordinates and urban parameters for each capital.
 
 ---
