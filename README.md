@@ -90,9 +90,3 @@ We welcome contributions! Please open issues or submit pull requests for bug fix
 
 * Milad [@milad](https://github.com/miladtorabi65)
 * Jennifer j.hu-16@student.tudelft.nl
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
